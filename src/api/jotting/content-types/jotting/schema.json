@@ -1,0 +1,22 @@
+{
+  "kind": "collectionType",
+  "collectionName": "jottings",
+  "info": {
+    "singularName": "jotting",
+    "pluralName": "jottings",
+    "displayName": "Jotting",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "text"
+    },
+    "content": {
+      "type": "richtext"
+    }
+  }
+}
